@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: rgb(255, 212, 212); */
+}
+.container{
+    width: 80%;
+    /* background-color: coral; */
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.header{
+    /* background-color: cyan; */
+    width: 100%;
+    margin-top: 20px;
+}
+.header .name-1{
+    color: rgb(54, 54, 54);
+    font-size: 150%;
+    display: inline-block;
+    vertical-align: middle;
+    width: 33%;
+}
+.header .name-2{
+    color: rgb(54, 54, 54);
+    font-size: 150%;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    width: 33%;
+}
+.header .name-3{
+    color: rgb(54, 54, 54);
+    font-size: 100%;
+    display: inline-block;
+    padding: 0;
+    box-sizing: border-box;
+    vertical-align: middle;
+    width: 33%;
+}
+.header .name-3 .info-1{
+    color: rgb(54, 54, 54);
+    display: inline-block;
+    text-align: right;
+    vertical-align: middle;
+    margin-left: 20px;
+    width: 30%;
+}
+.header .name-3 .info-2{
+    color: rgb(54, 54, 54);
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    width: 30%;
+}
+.header .name-3 .info-3{
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    width: 31%;
+}
+.header .name-3 .button{
+    background-color: rgb(112, 112, 255);
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.sec-0{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 100px;
+}
+.sec-1{
+    margin: 50px 0;
+}
+.tittle-1{
+    margin: 20px 0;
+}
+.box-content{
+    background-color: rgb(202, 202, 202);
+    padding: 15px;
+    border-radius: 25px;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+    width: 33%;
+    display: inline-block;
+    color: rgb(54, 54, 54);
+}
+.box-content-2{
+    /* background-color: rgb(146, 146, 146); */
+    margin-bottom: 1px;
+    box-sizing: border-box;
+    width: 33%;
+    display: inline-block;
+    color: rgb(54, 54, 54);
+}
+.sec-5{
+    margin: 200px auto 100px;
+    text-align: center;
+    font-size: 30px;
+}
+.footer{
+    /* background-color: rgb(59, 59, 59); */
+    color: azure;
+    width: 100%;
+    margin-top: 20px;
+    padding: 50px 0 20px;
+}
+.footer .name-3{
+    color: rgb(54, 54, 54);
+    font-size: 100%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+    vertical-align: middle;
+    width: 100%;
+}
+.footer .name-3 .info-1{
+    color: rgb(54, 54, 54);
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    margin-left: 20px;
+    width: 10%;
+}
+.footer .name-3 .info-2{
+    color: rgb(54, 54, 54);
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    width: 10%;
+}
+.footer .name-3 .info-3{
+    /* background-color: rgb(112, 112, 255);
+    color: rgb(255, 255, 255); */
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    /* padding: 10px 20px;
+    border-radius: 20px; */
+    width: 10%;
+}
+.button{
+    background-color: rgb(112, 112, 255);
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    border-radius: 20px;
+}
